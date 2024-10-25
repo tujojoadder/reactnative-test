@@ -8,7 +8,7 @@ export default function ProfessionalButtons() {
   const handleLongPress = () => Alert.alert('Button Long Pressed');
 
   return (
-    <View style={styles.container}>
+    <View style={styles.container}> 
       {/* TouchableHighlight Button */}
       <TouchableHighlight
         style={styles.highlightButton} // Custom button styling
