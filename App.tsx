@@ -14,7 +14,7 @@ import ProfessionalButtons from './components/TouchableHighlight/TouchableHighli
 export default function App() {
   return (
  <>
-{/* <NormalButton/> */}
+ <NormalButton/> 
 {/* <ActivityIndicators/> */}
 {/* <FlatLists/> */}
 {/* <Flex/> */}
